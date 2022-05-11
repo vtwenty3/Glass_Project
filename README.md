@@ -1,7 +1,7 @@
 # My Role in the Project
 I have developed the project's core functionalities - chaincode architecture and development, IPFS integration, Bash Script Application for easier user interaction. 
 There is a breif video demonstration of the mentioned functionalities which can be found here: 
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=sO93cAGclXQ&t=1s)](https://www.youtube.com/watch?v=sO93cAGclXQ)
+[![IMAGE ALT TEXT HERE](play.jpg)](https://www.youtube.com/watch?v=sO93cAGclXQ)
 
 
 Group project: Glass research project, a blockchain network that shares EU citizen details with other member states.
