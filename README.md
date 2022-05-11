@@ -3,7 +3,7 @@ I have developed the project's core functionalities - chaincode architecture and
 There is a breif video demonstration of the mentioned functionalities which can be found here: 
 [![IMAGE ALT TEXT HERE](play.jpg)](https://www.youtube.com/watch?v=sO93cAGclXQ)
 
-> 🎅 Old Saint Nick
+> ## 👍 My role in the Project
 >
 > 'Twas the night before Christmas, when all through the house not a creature was stirring, not even a mouse. The stockings were hung by the chimney with care, in hopes that St. Nicholas soon would be there. The children were nestled all snug in their beds, while visions of sugar plums danced in their heads.
 
