@@ -5,8 +5,8 @@
 > - chaincode architecture and development
 > - IPFS integration
 > - Custom Bash Application 
-> ### Project tutorial can be found [here.](https://github.com/vtwenty3/Glass_Project/tree/main/minifab-dev)  
-> ### Check out breif video demonstration here:
+> ### Project [tutorial.](https://github.com/vtwenty3/Glass_Project/tree/main/minifab-dev)  
+> ## Video Demonstration
 >  [![Video Demonstration](play.jpg)](https://www.youtube.com/watch?v=sO93cAGclXQ)
 
 
