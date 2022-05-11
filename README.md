@@ -1,9 +1,14 @@
 
 > ## 👨🏽‍💻 My role in the Project
 >
-> I was responsible for the project's core functionality. I have design and implemented - the chaincode architecture and deployment, the IPFS integration, Custom Bash Application for simpler user interaction with the network. 
+> I was responsible for the project's core functionality. I have design and implemented: 
+> - chaincode architecture and development
+> - IPFS integration
+> - Custom Bash Application 
 > Check out my breif video demonstration here:
 >  [![Video Demonstration](play.jpg)](https://www.youtube.com/watch?v=sO93cAGclXQ)
+>  Check out our tutorial [here.](https://github.com/vtwenty3/Glass_Project/tree/main/minifab-dev)
+
 
 # What is GLASS
 EU research project which aims to establish a common infrastructure at the European level to provide shared public storage for documentation, files and data, and hosting services to cross-sector organizations.
