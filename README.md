@@ -1,4 +1,11 @@
+# My Role in the Project
+I have developed the project's core functionalities - chaincode architecture and development, IPFS integration, Bash Script Application for easier user interaction. 
+There is a breif video demonstration of the mentioned functionalities which can be found here: 
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=sO93cAGclXQ&t=1s)](https://www.youtube.com/watch?v=sO93cAGclXQ)
+
+
 Group project: Glass research project, a blockchain network that shares EU citizen details with other member states.
+
 # What is GLASS
 EU research project which aims to establish a common infrastructure at the European level to provide shared public storage for documentation, files and data, and hosting services to cross-sector organizations.
 
@@ -64,23 +71,3 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 # What is Distributed Ledger Technologies (DLT)
 
 Digital database which every member can supplement the data stored there. The data is stored locally on each machine not on a centralized cloud ( decentral peer-to-peer network). Mining verifies the data and makes DLT transparent, safe and decentral. Every blockchain is a form of DLT but not every DLT is blockchain. Nodes of the DLT are located on different locations.
-
-## Characteristics of DLT
-* Immutable
-* Transparent
-* Anonymous
-* Single Source of truth
-
-
-## System architecture
-
-![visual representation of our architecture](https://github.com/Conor-King/Glass_Project/blob/main/Teams_Files/system_architecture.png)
-
-The above diagram is a visual representation of our architecture. 
-
-##### Limitation of the architecture:
-The system is not truly a distributed system because if our main IPFS or our main HLF goes down the whole system is down. Moreover, the system has a careerist in subordinate network design. This can be improved in a further version. A possible improvement to create the system fully decentralized could be based on current DEFI technology. Secondly, an alternative solution could be using a redundant connection from our application to the network. 
-
-## Acknowledgement
-We would like to express our sincere gratitude to several individuals and organizations for supporting us throughout our project. First, we wish to express our sincere gratitude to our supervisor, Dr Nick Pitropakis, for his enthusiasm, patience, insightful comments, helpful information, and practical advice. Moreover, we would like to express our gratitude to Dr. Sarwar Sayeed and to Dr. Owen Lo. Lastly but not least, we would like to thank you to Dr Naghmeh Moradpoor Sheykhkanloo for sponsorship during the project. 
-
