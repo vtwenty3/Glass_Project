@@ -2,11 +2,11 @@
 > ## 👨🏽‍💻 My role in the Project
 >
 > I was responsible for the project's core functionality. I have design and implemented: 
-> - chaincode architecture and development
+> - chaincode architecture and development 
 > - IPFS integration
 > - Custom Bash Application 
 > ### Project [tutorial.](https://github.com/vtwenty3/Glass_Project/tree/main/minifab-dev)  
-> ## Video Demonstration
+> ## 📽️ Video Demonstration
 >  [![Video Demonstration](play.jpg)](https://www.youtube.com/watch?v=sO93cAGclXQ)
 
 
