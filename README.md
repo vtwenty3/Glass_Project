@@ -1,15 +1,9 @@
-# My Role in the Project
-I have developed the project's core functionalities - chaincode architecture and development, IPFS integration, Bash Script Application for easier user interaction. 
-There is a breif video demonstration of the mentioned functionalities which can be found here: 
-[![IMAGE ALT TEXT HERE](play.jpg)](https://www.youtube.com/watch?v=sO93cAGclXQ)
 
-> ## 👍 My role in the Project
+> ## 👨🏽‍💻 My role in the Project
 >
 > I was responsible for the project's core functionality. I have design and implemented - the chaincode architecture and deployment, the IPFS integration, Custom Bash Application for simpler user interaction with the network. 
 > Check out my breif video demonstration here:
 >  [![Video Demonstration](play.jpg)](https://www.youtube.com/watch?v=sO93cAGclXQ)
-
-Group project: Glass research project, a blockchain network that shares EU citizen details with other member states.
 
 # What is GLASS
 EU research project which aims to establish a common infrastructure at the European level to provide shared public storage for documentation, files and data, and hosting services to cross-sector organizations.
