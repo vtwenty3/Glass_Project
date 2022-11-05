@@ -1,13 +1,4 @@
 
-> ## 👨🏽‍💻 My role in the Project
->
-> I was responsible for the project's core functionality. I have design and implemented: 
-> - chaincode architecture and development 
-> - IPFS integration
-> - Custom Bash Application 
-> ### Project [tutorial.](https://github.com/vtwenty3/Glass_Project/tree/main/minifab-dev)  
-> ## 📽️ Video Demonstration
->  [![Video Demonstration](play.jpg)](https://www.youtube.com/watch?v=sO93cAGclXQ)
 
 
 
@@ -20,6 +11,20 @@ GLASS aims to design and deploy a blockchain-based distributed environment and d
 * the incorporation of the Interplanetary File System (IPFS) in the GLASS architecture
 * the design, development and deployment of the distributed ledger
 * seamless identity management
+
+
+
+
+> ## 👨🏽‍💻 My role in the Project
+>
+> I was responsible for the project's core functionality. I have design and implemented: 
+> - chaincode architecture and development 
+> - IPFS integration
+> - Custom Bash Application 
+> ### Minifab [tutorial.](https://github.com/vtwenty3/Glass_Project/tree/main/minifab-dev)  
+> ## 📽️ Video Demonstration
+>  [![Video Demonstration](play.jpg)](https://www.youtube.com/watch?v=sO93cAGclXQ)
+
 
 # What is IPFS
 A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open. IPFS is a file sharing system that can be leveraged to more efficiently store and share large files. It relies on cryptographic hashes that can easily be stored on a blockchain Learn more here: https://ipfs.io/#how
